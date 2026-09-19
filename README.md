@@ -62,7 +62,7 @@ Unplanned and semi-planned machine downtime is one of the largest hidden cost ce
 | Total initial investment | $165,000 |
 | Net annual savings | ~$47,548 |
 | **Simple payback period** | **~3.5 years** |
-| **IRR (5-year)** | **~25–35%**, comfortably above the 12% hurdle rate |
+| **IRR (5-year)** | **~14%**, the investment clears the hurdle rate, but the margin is thin enough that it's worth stress-testing the 55% downtime-reduction assumption before committing capital |
 | **NPV (5-year)** | Positive — investment is value-accretive at the assumed discount rate |
 
 **Conclusion:** Replacing CNC-201 is a financially sound investment even under conservative assumptions, primarily because a large share of its downtime (breakdowns, preventive maintenance, quality holds) is equipment-condition-driven rather than organizational.
